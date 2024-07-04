@@ -1,7 +1,7 @@
-package main_test
+package dice_test
 
 import (
-	dice "dice"
+	"dice"
 	"testing"
 )
 
